@@ -1,0 +1,16 @@
+cache/
+dist/
+*.tar
+node_modules/
+.cache/
+npm-debug.log
+package-lock.json
+.idea/
+neocu.sublime-project
+.vscode/
+.DS_Store
+*.result
+lint.result
+test/coverage/
+coverage/
+.eslintcache
